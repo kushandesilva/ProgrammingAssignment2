@@ -48,6 +48,5 @@ cacheSolve(CachedMarix)
       CachedMarix <- makeCacheMatrix(b)
 cacheSolve(CachedMarix)   
               
- cacheSolve(CachedMarix)
               
               
